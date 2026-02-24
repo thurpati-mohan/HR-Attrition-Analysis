@@ -1,12 +1,12 @@
-#HR-Analytics-Employee-Attrition-Case-Study
+# HR-Analytics-Employee-Attrition-Case-Study
 
- ##Project Overview
+ ## Project Overview
 
 This project analyzes employee attrition patterns using Power BI to identify high-risk segments and recommend data-driven retention strategies.
 
 The company has a 16.1% attrition rate, and this dashboard helps HR teams understand key drivers of employee turnover.
 
-##Business Problem
+## Business Problem
 
 Identify high-risk employee segments
 
@@ -16,15 +16,15 @@ Analyze departments with higher churn
 
 Provide strategic retention recommendations
 
-##Tools Used
+## Tools Used
 
-Power BI
+**Power BI**
 
-Power Query
+**Power Query**
 
-DAX
+**DAX**
 
-##Key KPIs
+## Key KPIs
 
 Total Employees: 1473
 
@@ -38,7 +38,7 @@ Average Salary: $6.5K
 
 Average Age: 37
 
-##Key Insights
+## Key Insights
 
 Employees aged 26–35 show highest attrition
 
@@ -50,7 +50,7 @@ Single employees are more likely to leave
 
 Lower job satisfaction linked to higher churn
 
-##Business Recommendations
+## Business Recommendations
 
 Balance overtime workload
 
