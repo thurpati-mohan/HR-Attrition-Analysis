@@ -57,7 +57,6 @@ Key business questions:
 
 - Prepared the HR dataset using Power Query.
 - Structured employee attributes for analysis.
-- Created DAX measures for key workforce KPIs.
 - Created a calculated **Distance From Home** segmentation:
   - 1–5 KM
   - 6–10 KM
@@ -67,6 +66,9 @@ Key business questions:
   - 26–29 KM
 
 ---
+### Metric Development
+
+- Created DAX measures for key workforce KPIs.
 
 #  Key Insights
 
@@ -182,4 +184,4 @@ The dashboard provides HR stakeholders with a structured view of employee attrit
 
 Aspiring Data Analyst
 
-**Skills:** Power BI | Power Query | DAX | Data Modeling | Data Visualization | Business Analysis | HR Analytics
+**Skills:** Power BI | Power Query | DAX | Data Visualization | Business Analysis | HR Analytics
