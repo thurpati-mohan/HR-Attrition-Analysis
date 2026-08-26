@@ -17,7 +17,7 @@ Key business questions:
 - Which age groups have the highest attrition?
 - Which job roles have the highest recorded attrition?
 - How is attrition distributed by gender and marital status?
-- How does job satisfaction vary across high-attrition roles?
+- How is recorded attrition distributed across job satisfaction levels and job roles?
 - How does overtime relate to recorded attrition?
 - How is attrition distributed by distance from home?
 - Which employee segments should HR investigate further?
@@ -30,7 +30,6 @@ Key business questions:
 - **Power Query** – Data preparation and transformation
 - **DAX** – Measures and business metrics
 - **Calculated Columns** – Employee segmentation
-- **Data Modeling**
 - **Interactive Data Visualization**
 - **Business Analysis**
 
@@ -52,9 +51,9 @@ Key business questions:
 
 ##  Analytical Process
 
-**Data Preparation → Data Modeling → DAX Measures → Calculated Column → Dashboard Development → Insight Generation → Business Recommendations**
+**Data Preparation → DAX Measures → Calculated Column → Dashboard Development → Insight Generation → Business Recommendations**
 
-### Data Preparation & Modeling
+### Data Preparation 
 
 - Prepared the HR dataset using Power Query.
 - Structured employee attributes for analysis.
@@ -164,7 +163,7 @@ HR-Attrition-Analysis/
 ├── dashboard-overview.png
 ├── business-case.png
 ├── HR-Analytics-Dashboard.pbix
-└── hr-dataset.csv
+└── HR-Dataset.csv
 ```
 
 ---
